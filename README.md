@@ -4,6 +4,31 @@ A 2D educational role-playing game (RPG) built with Unity and C# to make learnin
 
 This project was developed as part of a university software engineering course. It combines gamification with academic content from modules such as Object-Oriented Design & Programming (OODP), Software Engineering (SE), and Software Systems Analysis & Design (SSAD). Players progress through worlds, battle trainers by answering quiz questions, compete on leaderboards, and teachers can create assignments for students.
 
+## Documentation
+
+Comprehensive project documentation is available in the Software Requirements Specification (SRS), which includes detailed functional requirements, use cases, system architecture, UML diagrams, testing, and design decisions.
+
+📄 **Software Requirements Specification (98 pages):**  
+https://github.com/JethroPhuah/Creating-a-Unity-Game-that-gamifies-teaching/blob/main/CZ3003%20Project/SS8_ILIKEBREAD_SoftwareMon_SRS.pdf
+
+### Key Diagrams and Artifacts
+
+- **Use Case Diagram** – Overview of all student and teacher interactions
+- **Three-Tier Architecture** – Client, Logic, and Data layers
+- **Component Diagram** – Major system modules and dependencies
+- **ER Diagram** – Database structure and relationships
+- **Communication Diagrams** – Login and Battle System workflows
+- **Black-Box Testing** – Detailed test cases and expected outputs
+
+### Recommended Sections
+
+- **System Features:** Page 10  
+- **Use Case Descriptions:** Page 31  
+- **Architecture Design:** Page 53  
+- **Testing and Validation:** Page 58  
+
+To jump directly to the System Features section (page 10), use the following link:  
+https://github.com/JethroPhuah/Creating-a-Unity-Game-that-gamifies-teaching/blob/main/CZ3003%20Project/SS8_ILIKEBREAD_SoftwareMon_SRS.pdf#page=10
 ---
 
 ## Project Overview
