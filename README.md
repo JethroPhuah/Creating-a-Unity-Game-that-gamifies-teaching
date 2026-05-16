@@ -8,7 +8,8 @@ This project was developed as part of a university software engineering course. 
 
 Comprehensive project documentation is available in the Software Requirements Specification (SRS), which includes detailed functional requirements, use cases, system architecture, UML diagrams, testing, and design decisions.
 
-📄 **Software Requirements Specification (98 pages):**  
+📄 **Software Requirements Specification (98 pages):**
+
 https://github.com/JethroPhuah/Creating-a-Unity-Game-that-gamifies-teaching/blob/main/CZ3003%20Project/SS8_ILIKEBREAD_SoftwareMon_SRS.pdf
 
 ### Key Diagrams and Artifacts
@@ -28,6 +29,7 @@ https://github.com/JethroPhuah/Creating-a-Unity-Game-that-gamifies-teaching/blob
 - **Testing and Validation:** Page 58  
 
 **To jump directly to the System Features section (page 10), use the following link:**
+
 https://github.com/JethroPhuah/Creating-a-Unity-Game-that-gamifies-teaching/blob/main/CZ3003%20Project/SS8_ILIKEBREAD_SoftwareMon_SRS.pdf#page=10
 
 ---
