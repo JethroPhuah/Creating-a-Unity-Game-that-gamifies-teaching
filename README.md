@@ -113,7 +113,7 @@ Each world contains multiple sections, trainers, and questions with Easy, Medium
 
 1. Download the repository.
 2. Navigate to the build folder.
-3. Run the executable file (`SoftwareMon.exe` or the provided `.exe` file).
+3. Run the executable file (`CZ3003 Project.exe`).
 4. Create an account or log in to start playing.
 
 No Unity installation is required to play the game.
