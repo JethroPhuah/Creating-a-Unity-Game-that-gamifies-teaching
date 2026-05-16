@@ -27,8 +27,9 @@ https://github.com/JethroPhuah/Creating-a-Unity-Game-that-gamifies-teaching/blob
 - **Architecture Design:** Page 53  
 - **Testing and Validation:** Page 58  
 
-To jump directly to the System Features section (page 10), use the following link:  
+**To jump directly to the System Features section (page 10), use the following link:**
 https://github.com/JethroPhuah/Creating-a-Unity-Game-that-gamifies-teaching/blob/main/CZ3003%20Project/SS8_ILIKEBREAD_SoftwareMon_SRS.pdf#page=10
+
 ---
 
 ## Project Overview
